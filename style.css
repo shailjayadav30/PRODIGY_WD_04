@@ -231,6 +231,7 @@ gap: 2rem;
   height: fit-content;
   position: fixed;
   width: 150px;
+  z-index: 999;
 }
 .hidden {
   display: none;
